@@ -9,6 +9,7 @@
 # Content
 
 1.  Introduction / Conclusion [Cohesion]
+2.  References
 
 # PowerPoint
 
@@ -28,8 +29,16 @@
 
    
 
-# Presentation
+# Presentation (Check the Notes)
 
 1.  Self-introduction
 2.  Transition of speaker ("Thank you xxx... | Next part will be discussed by xxx...")
 3.  Time limit ( 2 + 2 + 2 + (2) )
+
+
+
+
+
+# Deficiency Observed
+
+1.  
