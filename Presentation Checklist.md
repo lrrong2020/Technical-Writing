@@ -15,6 +15,8 @@
     -  why
     -  when Q&A
 2.  References
+    - https://fourweekmba.com/amazon-business-model/
+    - https://medium.com/@a.ruzainirashid/alibaba-vs-amazon-how-does-their-business-models-differ-f0aa66364c60
 3.  ~~Conclusion~~
     - ~~Signal~~
     - ~~Restate~~
@@ -59,7 +61,7 @@
 # Presentation (Check the Notes)
 
 1.  Self-introduction
-2.  Transition of speaker ("Thank you xxx... | Next part will be discussed by xxx...")
+2.  ~~Transition of speaker ("Thank you xxx... | Next part will be discussed by xxx...")~~
 3.  Time limit ( 2 + 2 + 2 + (2) )
 4.   Avoid readong word by word
 5.   physical movement
