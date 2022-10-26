@@ -15,12 +15,12 @@
     -  why
     -  when Q&A
 2.  References
-3.  Conclusion
-    - Signal
-    - Restate
-    - Summarize
-    - State the conclusions
-    - Thank
+3.  ~~Conclusion~~
+    - ~~Signal~~
+    - ~~Restate~~
+    - ~~Summarize~~
+    - ~~State the conclusions~~
+    - ~~Thank~~
 
 # PowerPoint
 
@@ -34,7 +34,7 @@
 
 3.  Formatting
 
-   * Consistency*
+   * Consistency
    
      1.  Font
 
