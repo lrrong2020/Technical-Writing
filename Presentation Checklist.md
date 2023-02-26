@@ -72,4 +72,8 @@
 
 # Deficiency Observed
 
-1.  
+1.   Pronounciation
+    -  Edit
+    -  Amazon
+    -  Coupon 
+    -  
