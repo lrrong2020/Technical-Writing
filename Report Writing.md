@@ -27,16 +27,16 @@
 
 ### Pagination
 
-- Introduce
-  - Brief
-  - Describe functionalities (with screenshot)
-- Introduce Client / Server side pagination
-- Product list page -> Server-side pagination
-  - Advantage
-  - Disadvantage
--  Search page -> Client-side pagination
-  - Advantage
-  - Disadvantage
+- ~~Introduce~~
+  - ~~Brief~~
+  - ~~Describe functionalities (with screenshot)~~
+- ~~Introduce Client / Server side pagination~~
+- ~~Product list page -> Server-side pagination~~
+  - ~~Advantage~~
+  - ~~Disadvantage~~
+-  ~~Search page -> Client-side pagination~~
+  - ~~Advantage~~
+  - ~~Disadvantage~~
 - Conclusion
 
 
