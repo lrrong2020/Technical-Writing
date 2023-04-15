@@ -76,6 +76,14 @@
 
 
 
+### Mobile Adjustment
+
+- Image Access and Storage
+  - Android API
+  - Base64
+
+
+
 
 
 ## Chapter 5
